@@ -1,4 +1,4 @@
 # golang-dasar
 Belajar golang dari dasar
 
-## GO Pendahuluan 1.0
+## GO Modal 1.0
